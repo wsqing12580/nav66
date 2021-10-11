@@ -11,7 +11,7 @@ keywords: 纵横网址导航,网址导航,网站导航,上网导航,网址大全
 # 网址导航页面描述（可选）
 description: 收集小而美的中文垂直社区，微社区，垂直网址导航的网址导航网站。
 # 网址导航页面 URL（可选）
-url: https://nav.pipecraft.net/
+url: https://nav.pipecraft.net/links/
 # Favicon（可选）
 shortcut_icon: https://avatars.githubusercontent.com/u/91052735?s=70&v=4
 # 社交分享图片（可选）
@@ -25,18 +25,18 @@ github_url: https://github.com/pipecraft-net/nav
 # 提交链接的 URL
 link_submission_url: https://github.com/pipecraft-net/nav/issues
 # 网站友情链接（可选）
-friendship_links_url: links/
+friendship_links_url: ../links/
 # Google Analytics Code（可选）
 # ga_tracking_code_id: G-ABCDEFG
 
-################
+###############
 ## 导航栏
 ################
 navigation_urls:
   - title: 垂直社区网站
-    url: communities/
+    url: ../communities/
   - title: 垂直网址导航网站
-    url: nav-sites/
+    url: ../nav-sites/
 
 ################
 ## 网址导航数据
@@ -116,7 +116,7 @@ categories:
     icon: linecons-doc
     links:
       - title: viggo
-        logo: https://images.weserv.nl/?url=work.viggoz.com/images/favicon.png&w=60&h=60
+        logo: http://work.viggoz.com/images/favicon.png
         url: http://blog.viggoz.com/
         description: Webstack 的设计师
       - title: 等你来加➕
