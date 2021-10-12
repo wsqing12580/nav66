@@ -3,7 +3,8 @@
 ## 网址导航页面配置
 ################
 # 网站标题
-title: 纵横网址导航
+title: 垂直社区网站
+site_name: 纵横网址导航
 # 网站 LOGO（可选）
 # logo: https://webstack.cc/assets/images/logo@2x.png
 # 网址导航页面关键字（可选）
@@ -86,92 +87,105 @@ categories:
         url: https://discuss.cn.pipecraft.net/
         description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
         tags: RSS,Atom,聚合新闻,内容订阅
-      - title: GenEasy
-        logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
-        url: https://github.com/geneasy/geneasy
-        description: A command line tool that can easily generate HTML, Markdown documents, etc.
-        tags: cli,tools
-
-  - category: 程序员博客
-    icon: linecons-doc
-    links:
-      - title: 等你来加➕
-        logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
       - title: 等你来加➕
         logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
         url: https://github.com/geneasy/nav/issues
         description: 快来提交你的网站吧
         tags: 程序员,生活,创意
-      - title: 等你来加➕
-        logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
 
-  - category: 设计师博客
+  - category: 程序开发
     icon: linecons-doc
     links:
-      - title: viggo
-        logo: http://work.viggoz.com/images/favicon.png
-        url: http://blog.viggoz.com/
-        description: Webstack 的设计师
-      - title: 等你来加➕
-        logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-
-  - category: 个人博客
-    icon: linecons-doc
-    links:
-      - title: 等你来加➕
-        logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
-        url: https://github.com/geneasy/nav/issues
-        description: 快来提交你的网站吧
-
-  - category: 社区
-    icon: linecons-doc
-    links:
-      - title: 抛砖问答
-        logo: https://pzwd.net/assets/avatars/hVgLBGkh1gxRpWiR.png
-        url: https://pzwd.net/
-        description: 抛砖问答(PZWD)是一个非商业性质的，独立的，开放的，程序员的问答社区。
-        tags: 程序员,问答,社区,stackoverflow
-      - title: 独立开发者社区
-        logo: https://indiehackers-1251406926.cos.ap-chengdu.myqcloud.com/hackers/7cl3u.png
-        url: https://w2solo.com/
-        description: 「w2solo.com」独立开发者社区，由众多独立开发者维护，致力于搭建和维护好国内独立开发者圈子和氛围。
-      - title: Pipecraft 社区
-        logo: https://discuss.cn.pipecraft.net/assets/favicon-jtrdedht.png
-        url: https://discuss.cn.pipecraft.net/
-        description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
-        tags: RSS,Atom,聚合新闻,内容订阅
       - title: P站问答
         logo: https://pzwd.net/assets/avatars/hVgLBGkh1gxRpWiR.png
         url: https://pzwd.net/
         description: 抛砖问答(PZWD)是一个非商业性质的，独立的，开放的，程序员的问答社区。
-        tags: 程序员,问答,社区,stackoverflow
+        tags: 程序员,问答,stackoverflow,flarum
+      - title: 独立开发者社区
+        logo: https://indiehackers-1251406926.cos.ap-chengdu.myqcloud.com/hackers/7cl3u.png
+        url: https://w2solo.com/
+        description: 「w2solo.com」独立开发者社区，由众多独立开发者维护，致力于搭建和维护好国内独立开发者圈子和氛围。
+        tags: 独立开发者,homeland
+      - title: Ruby China
+        logo: https://l.ruby-china.com/photo/edafbc70e706f76f7ddc59fb4694fb86.png
+        url: https://ruby-china.org/
+        description: 由众多爱好者共同维护的 Ruby 中文社区。
+        tags: ruby,homeland
+      - title: 电鸭社区
+        logo: https://eleduck.com/static/favicon.ico
+        url: https://eleduck.com/
+        description: 电鸭社区是互联网工作者们的聚集地，我们倡导“只工作，不上班”的生活方式。
+        tags: 远程工作
+      - title: V2EX
+        logo: https://images.weserv.nl/?url=https://www.v2ex.com/static/img/v2ex@2x.png&w=60&h=60
+        url: https://www.v2ex.com/?r=Pipecraft
+        display_url: https://www.v2ex.com/
+        description: V2EX 是创意工作者们的社区。这里目前汇聚了超过 400,000 名主要来自互联网行业、游戏行业和媒体行业的创意工作者。V2EX 希望能够成为创意工作者们的生活和事业的一部分。
+        tags: 开发者,设计师
+      - title: Flarum 中文社区
+        logo: https://discuss.flarum.org.cn/assets/favicon-mvffjom6.png
+        url: https://discuss.flarum.org.cn/
+        description: 欢迎访问 Flarum 中文站。Flarum 是一个优雅的轻论坛软件，简约界面回归社区本质。这里没有太多的条条框框规定，在这里你可以谈天说地，可以在最短的时间收集灵感，寻找有趣的东西。
+        tags: flarum
+      - title: Laravel China 社区
+        logo: https://cdn.learnku.com//uploads/communities/WtC3cPLHzMbKRSZnagU9.png!/both/70x70
+        url: https://learnku.com/laravel
+        description: 我们是高品质的 Laravel 开发者社区，致力于为 Laravel 开发者提供一个分享创造、结识伙伴、协同互助的论坛。
+        tags: laravel
+      - title: CNode：Node.js专业中文社区
+        logo: https://images.weserv.nl/?url=https://static2.cnodejs.org/public/images/cnodejs_light.svg&w=60&h=60
+        url: https://cnodejs.org/
+        description: CNode 社区为国内最大最具影响力的 Node.js 开源技术社区，致力于 Node.js 的技术研究。
+        tags: node.js
+      - title: GoCN社区
+        logo: https://gocn.vip/uploads/logo.png
+        url: https://gocn.vip/topics
+        description: GopherChina专注于为 Go语言开发者的技术提升，用户数量、活跃度和内容热度均居国内首位。及时推送官方最新资讯、精选优质语言学习文档、传递一手深工程实践经验，并且会定期举办线下meetup、峰会、培训及赛事，旨在打造全方位权威的 Go 社区。
+        tags: golang,homeland
+      - title: Rust语言中文社区
+        logo: https://rustcc.cn/img/rust-logo.svg
+        url: https://rustcc.cn/
+        description: Rust语言中文社区
+        tags: rust
+      - title: 等你来加➕
+        logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
+        url: https://github.com/geneasy/nav/issues
+        description: 快来提交你的网站吧
+      - title: 等你来加➕
+        logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
+        url: https://github.com/geneasy/nav/issues
+        description: 快来提交你的网站吧
+
+  - category: 设计
+    icon: linecons-doc
+    links:
+      - title: 等你来加➕
+        logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
+        url: https://github.com/geneasy/nav/issues
+        description: 快来提交你的网站吧
+      - title: 等你来加➕
+        logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
+        url: https://github.com/geneasy/nav/issues
+        description: 快来提交你的网站吧
+      - title: 等你来加➕
+        logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
+        url: https://github.com/geneasy/nav/issues
+        description: 快来提交你的网站吧
+      - title: 等你来加➕
+        logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
+        url: https://github.com/geneasy/nav/issues
+        description: 快来提交你的网站吧
+
+  - category: 轻社区系统程序
+    icon: linecons-doc
+    links:
+      - title: Flarum
+        logo: https://flarum.org/favicon.ico
+        url: https://flarum.org/
+        description: Flarum is the next-generation forum software that makes online discussion fun. It's simple, fast, and free.
+        tags: php,flarum
+      - title: Homeland
+        logo: https://homeland.ruby-china.org/images/favicon.png
+        url: https://homeland.ruby-china.org/zh-CN/
+        description: 开源、免费、不限制商业使用的社区／论坛系统
+        tags: ruby,homeland
