@@ -16,7 +16,7 @@ url: https://nav.pipecraft.net/communities/
 # Favicon（可选）
 shortcut_icon: https://avatars.githubusercontent.com/u/91052735?s=70&v=4
 # 社交分享图片（可选）
-og_img: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
+og_img: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em"  font-size="90">P</text></svg>
 # 主页 URL
 home_url: https://nav.pipecraft.net/
 # GitHub 链接（可选）
@@ -53,12 +53,12 @@ categories:
         description: 抛砖问答(PZWD)是一个非商业性质的，独立的，开放的，程序员的问答社区。
         tags: 程序员,问答,社区,stackoverflow
       - title: 等你来加➕
-        logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em"  font-size="90">P</text></svg>
         url: https://github.com/geneasy/nav/issues
         description: 快来提交你的网站吧
         tags: 程序员,生活,创意
       - title: 等你来加➕
-        logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em"  font-size="90">P</text></svg>
         url: https://github.com/geneasy/nav/issues
         description: 快来提交你的网站吧
         tags: 程序员,生活,创意
@@ -78,7 +78,7 @@ categories:
         description: 抛砖问答(PZWD)是一个非商业性质的，独立的，开放的，程序员的问答社区。
         tags: 程序员,问答,社区,stackoverflow
       - title: 等你来加➕
-        logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em"  font-size="90">P</text></svg>
         url: https://github.com/geneasy/nav/issues
         description: 快来提交你的网站吧
         tags: 程序员,生活,创意
@@ -88,7 +88,7 @@ categories:
         description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
         tags: RSS,Atom,聚合新闻,内容订阅
       - title: 等你来加➕
-        logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em"  font-size="90">P</text></svg>
         url: https://github.com/geneasy/nav/issues
         description: 快来提交你的网站吧
         tags: 程序员,生活,创意
@@ -148,11 +148,11 @@ categories:
         description: Rust语言中文社区
         tags: rust
       - title: 等你来加➕
-        logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em"  font-size="90">P</text></svg>
         url: https://github.com/geneasy/nav/issues
         description: 快来提交你的网站吧
       - title: 等你来加➕
-        logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em"  font-size="90">P</text></svg>
         url: https://github.com/geneasy/nav/issues
         description: 快来提交你的网站吧
 
@@ -160,19 +160,19 @@ categories:
     icon: linecons-doc
     links:
       - title: 等你来加➕
-        logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em"  font-size="90">P</text></svg>
         url: https://github.com/geneasy/nav/issues
         description: 快来提交你的网站吧
       - title: 等你来加➕
-        logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em"  font-size="90">P</text></svg>
         url: https://github.com/geneasy/nav/issues
         description: 快来提交你的网站吧
       - title: 等你来加➕
-        logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em"  font-size="90">P</text></svg>
         url: https://github.com/geneasy/nav/issues
         description: 快来提交你的网站吧
       - title: 等你来加➕
-        logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em"  font-size="90">P</text></svg>
         url: https://github.com/geneasy/nav/issues
         description: 快来提交你的网站吧
 
@@ -185,7 +185,7 @@ categories:
         description: 找兰友，赏兰花，当然是兰友俱乐部了，快快搜索 lanyou.club 一起发现好兰花、好兰友！
         tags:
       - title: MoreSound电子音乐社区
-        # logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em"  font-size="90">P</text></svg>
         url: https://www.moresound.club
         description: MoreSound是一个全新的电子音乐交流社区，致力于促进国内电子音乐的发展！
         tags: 音乐
@@ -195,7 +195,7 @@ categories:
         description: K7DJ - 电子音乐综合社区，聚集国内电子音乐制作人、DJ在线交流。K7DJ（酷7DJ网）致力于中国电子音乐传播与发展。
         tags: 音乐
       - title: 等你来加➕
-        logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em"  font-size="90">P</text></svg>
         url: https://github.com/geneasy/nav/issues
         description: 快来提交你的网站吧
 
