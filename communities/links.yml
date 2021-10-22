@@ -176,6 +176,29 @@ categories:
         url: https://github.com/geneasy/nav/issues
         description: 快来提交你的网站吧
 
+  - category: 兴趣爱好
+    icon: linecons-doc
+    links:
+      - title: 兰友俱乐部
+        logo: https://lanyou.club/assets/favicon-u5opqksk.png
+        url: https://lanyou.club
+        description: 找兰友，赏兰花，当然是兰友俱乐部了，快快搜索 lanyou.club 一起发现好兰花、好兰友！
+        tags:
+      - title: MoreSound电子音乐社区
+        # logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
+        url: https://www.moresound.club
+        description: MoreSound是一个全新的电子音乐交流社区，致力于促进国内电子音乐的发展！
+        tags: 音乐
+      - title: K7DJ - 电子音乐社区
+        logo: https://www.k7dj.com/favicon.ico
+        url: https://www.k7dj.com/
+        description: K7DJ - 电子音乐综合社区，聚集国内电子音乐制作人、DJ在线交流。K7DJ（酷7DJ网）致力于中国电子音乐传播与发展。
+        tags: 音乐
+      - title: 等你来加➕
+        logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
+        url: https://github.com/geneasy/nav/issues
+        description: 快来提交你的网站吧
+
   - category: 轻社区系统程序
     icon: linecons-doc
     links:
