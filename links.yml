@@ -11,13 +11,13 @@ keywords: 纵横网址导航,网址导航,网站导航,上网导航,网址大全
 # 网址导航页面描述（可选）
 description: 收集小而美的中文垂直社区，微社区，垂直网址导航的网址导航网站。
 # 网址导航页面 URL（可选）
-url: https://nav.pipecraft.net/
+url: https://zh.pipecraft.net/
 # Favicon（可选）
 shortcut_icon: https://avatars.githubusercontent.com/u/91052735?s=70&v=4
 # 社交分享图片（可选）
 og_img: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
 # 主页 URL
-home_url: https://nav.pipecraft.net/
+home_url: https://zh.pipecraft.net/
 # GitHub 链接（可选）
 github_url: https://github.com/pipecraft-net/nav
 # 网站 about 链接（可选）
