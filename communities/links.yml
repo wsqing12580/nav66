@@ -16,7 +16,7 @@ url: https://zh.pipecraft.net/communities/
 # Favicon（可选）
 shortcut_icon: https://avatars.githubusercontent.com/u/91052735?s=70&v=4
 # 社交分享图片（可选）
-og_img: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em"  font-size="90">P</text></svg>
+og_img: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
 # 主页 URL
 home_url: https://zh.pipecraft.net/
 # GitHub 链接（可选）
@@ -47,18 +47,18 @@ categories:
   - category: 新添加
     icon: linecons-star
     links:
+      - title: Emacs China
+        logo: https://emacs-china.org/uploads/default/optimized/2X/d/dd05943671ee57856f9d7fa7ba6497f31bfcd332_2_180x180.png
+        url: https://emacs-china.org/
+        description: 可能是最好的 Emacs 中文论坛
+        tags: emacs,tools
       - title: P站问答
         logo: https://pzwd.net/assets/avatars/hVgLBGkh1gxRpWiR.png
         url: https://pzwd.net/
         description: 抛砖问答(PZWD)是一个非商业性质的，独立的，开放的，程序员的问答社区。
         tags: 程序员,问答,社区,stackoverflow
       - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em"  font-size="90">P</text></svg>
-        url: https://github.com/pipecraft-net/nav/issues
-        description: 快来提交你的网站吧
-        tags: 程序员,生活,创意
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em"  font-size="90">P</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
         url: https://github.com/pipecraft-net/nav/issues
         description: 快来提交你的网站吧
         tags: 程序员,生活,创意
@@ -78,7 +78,7 @@ categories:
         description: 抛砖问答(PZWD)是一个非商业性质的，独立的，开放的，程序员的问答社区。
         tags: 程序员,问答,社区,stackoverflow
       - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em"  font-size="90">P</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
         url: https://github.com/pipecraft-net/nav/issues
         description: 快来提交你的网站吧
         tags: 程序员,生活,创意
@@ -88,7 +88,7 @@ categories:
         description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
         tags: RSS,Atom,聚合新闻,内容订阅
       - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em"  font-size="90">P</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
         url: https://github.com/pipecraft-net/nav/issues
         description: 快来提交你的网站吧
         tags: 程序员,生活,创意
@@ -133,7 +133,7 @@ categories:
         description: 我们是高品质的 Laravel 开发者社区，致力于为 Laravel 开发者提供一个分享创造、结识伙伴、协同互助的论坛。
         tags: laravel
       - title: CNode：Node.js专业中文社区
-        logo: https://images.weserv.nl/?url=https://static2.cnodejs.org/public/images/cnodejs_light.svg&w=60&h=60
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">C</text></svg>
         url: https://cnodejs.org/
         description: CNode 社区为国内最大最具影响力的 Node.js 开源技术社区，致力于 Node.js 的技术研究。
         tags: node.js
@@ -147,12 +147,13 @@ categories:
         url: https://rustcc.cn/
         description: Rust语言中文社区
         tags: rust
+      - title: Emacs China
+        logo: https://emacs-china.org/uploads/default/optimized/2X/d/dd05943671ee57856f9d7fa7ba6497f31bfcd332_2_180x180.png
+        url: https://emacs-china.org/
+        description: 可能是最好的 Emacs 中文论坛
+        tags: emacs,tools
       - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em"  font-size="90">P</text></svg>
-        url: https://github.com/pipecraft-net/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em"  font-size="90">P</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
         url: https://github.com/pipecraft-net/nav/issues
         description: 快来提交你的网站吧
 
@@ -160,19 +161,40 @@ categories:
     icon: linecons-doc
     links:
       - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em"  font-size="90">P</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
         url: https://github.com/pipecraft-net/nav/issues
         description: 快来提交你的网站吧
       - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em"  font-size="90">P</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
         url: https://github.com/pipecraft-net/nav/issues
         description: 快来提交你的网站吧
       - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em"  font-size="90">P</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
         url: https://github.com/pipecraft-net/nav/issues
         description: 快来提交你的网站吧
       - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em"  font-size="90">P</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
+        url: https://github.com/pipecraft-net/nav/issues
+        description: 快来提交你的网站吧
+
+  - category: 产品经理&运营
+    icon: linecons-doc
+    links:
+      - title: PMCAFF产品经理社区
+        logo: https://www.pmcaff.com/static/img/Icon_512.png
+        url: https://www.pmcaff.com/
+        description: PMCAFF产品经理社区专注于为产品经理等产品爱好者打造良好的交流学习平台，每日分享最新的国内外互联网行业动态，交流产品设计、用户体验、交互设计、产品运营和团队项目管理等专业知识，PMCAFF为广大的产品经理及产品爱好者提供产品资料、工具下载以及产品招聘信息的发布等服务，帮助产品经理解决在工作中遇到的一系列问题。
+        tags: 产品经理
+      - title: 等你来加➕
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
+        url: https://github.com/pipecraft-net/nav/issues
+        description: 快来提交你的网站吧
+      - title: 等你来加➕
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
+        url: https://github.com/pipecraft-net/nav/issues
+        description: 快来提交你的网站吧
+      - title: 等你来加➕
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
         url: https://github.com/pipecraft-net/nav/issues
         description: 快来提交你的网站吧
 
@@ -185,7 +207,7 @@ categories:
         description: 找兰友，赏兰花，当然是兰友俱乐部了，快快搜索 lanyou.club 一起发现好兰花、好兰友！
         tags:
       - title: MoreSound电子音乐社区
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em"  font-size="90">P</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">M</text></svg>
         url: https://www.moresound.club
         description: MoreSound是一个全新的电子音乐交流社区，致力于促进国内电子音乐的发展！
         tags: 音乐
@@ -195,9 +217,19 @@ categories:
         description: K7DJ - 电子音乐综合社区，聚集国内电子音乐制作人、DJ在线交流。K7DJ（酷7DJ网）致力于中国电子音乐传播与发展。
         tags: 音乐
       - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em"  font-size="90">P</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
         url: https://github.com/pipecraft-net/nav/issues
         description: 快来提交你的网站吧
+      - title: 非人類论坛
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">非</text></svg>
+        url: https://loc.cc/
+        description: 全球域名论坛，互联网综合交流，收集各路资源福利、主机优惠、域名行情等内容；涉猎范围不局限于互联网圈子。
+        tags: 域名,主机
+      - title: HiFiNi - 音乐磁场
+        logo: https://www.hifini.com/view/img/favicon.ico
+        url: https://www.hifini.com/
+        description: HiFiNi 是一个由音乐爱好者维护的分享平台, 旨在解决问题互帮互助, 如果您有需求, 请注册账号并发布信息、详细描述歌曲信息等, 我们会尽力帮您寻找
+        tags: 音乐
 
   - category: 轻社区系统程序
     icon: linecons-doc
