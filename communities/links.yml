@@ -39,6 +39,8 @@ navigation_urls:
     active: true
   - title: 垂直网址导航网站
     url: ../nav-sites/
+  - title: 博客聚合网站
+    url: ../blog-collections/
 
 ################
 ## 网址导航数据
