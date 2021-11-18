@@ -49,6 +49,15 @@ categories:
   - category: 新添加
     icon: linecons-star
     links:
+      - title: Best Yii
+        logo: https://www.bestyii.com/images/favicon.png
+        url: https://www.bestyii.com/
+        description: Best Yii | PHP Yii 开发框架最佳实践
+      - title: VFX SKILL技术社区
+        logo: https://sdkfiledl.jiguang.cn/cdn/xmspublic/assets/favicon-qvzveaya.ico
+        url: https://www.vfxskill.com/
+        description: 这是一个游戏特效,动画和技术美术的技术分享论坛!我们分享专业技术,在线交流,用爱发电。
+        tags: 游戏动画,CG专业技术
       - title: 聚客盒
         logo: https://jukebox.pipecraft.net/assets/favicon-brhoyfnr.png
         url: https://jukebox.pipecraft.net/
@@ -159,14 +168,20 @@ categories:
         url: https://jukebox.pipecraft.net/
         description: 聚合程序员博客的宝盒，是一个非商业性质的，独立的，开放的，程序员社区。
         tags: 程序员,博客,社区
+      - title: Best Yii
+        logo: https://www.bestyii.com/images/favicon.png
+        url: https://www.bestyii.com/
+        description: Best Yii | PHP Yii 开发框架最佳实践
+
 
   - category: 设计
     icon: linecons-doc
     links:
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
-        url: https://github.com/pipecraft-net/nav/issues
-        description: 快来提交你的网站吧
+      - title: VFX SKILL技术社区
+        logo: https://sdkfiledl.jiguang.cn/cdn/xmspublic/assets/favicon-qvzveaya.ico
+        url: https://www.vfxskill.com/
+        description: 这是一个游戏特效,动画和技术美术的技术分享论坛!我们分享专业技术,在线交流,用爱发电。
+        tags: 游戏动画,CG专业技术
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
         url: https://github.com/pipecraft-net/nav/issues
