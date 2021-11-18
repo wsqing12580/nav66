@@ -3,14 +3,14 @@
 ## 网址导航页面配置
 ################
 # 网站标题
-title: 博客聚合网站
+title: 个人独立博客聚合网站
 site_name: 纵横网址导航
 # 网站 LOGO（可选）
 # logo: https://webstack.cc/assets/images/logo@2x.png
 # 网址导航页面关键字（可选）
-keywords: 纵横网址导航,网址导航,网站导航,上网导航,网址大全,常用网站,推荐网站,个人导航,个人书签,个人主页,hao123上网导航,hao123导航,hao123网址大全
+keywords: 个人独立博客,纵横网址导航,网址导航,网站导航,上网导航,网址大全,常用网站,推荐网站,个人导航,个人书签,个人主页,hao123上网导航,hao123导航,hao123网址大全
 # 网址导航页面描述（可选）
-description: 收集小而美的中文垂直社区，微社区，垂直网址导航的网址导航网站。
+description: 收集小而美的中文垂直社区，微社区，垂直网址导航，个人独立博客聚合网站的网址导航网站。
 # 网址导航页面 URL（可选）
 url: https://zh.pipecraft.net/blog-collections/
 # Favicon（可选）
@@ -38,7 +38,7 @@ navigation_urls:
     url: ../communities/
   - title: 垂直网址导航网站
     url: ../nav-sites/
-  - title: 博客聚合网站
+  - title: 个人独立博客聚合网站
     url: ../blog-collections/
     active: true
 
@@ -49,103 +49,152 @@ categories:
   - category: 新添加
     icon: linecons-star
     links:
-      - title: P站问答
-        logo: https://pzwd.net/assets/avatars/hVgLBGkh1gxRpWiR.png
-        url: https://pzwd.net/
-        description: 抛砖问答(PZWD)是一个非商业性质的，独立的，开放的，程序员的问答社区。
-        tags: 程序员,问答,社区,stackoverflow
+      - title: 博客百家 - BLOG.BJ
+        logo: https://blog.bj/assets/images/favicon.png
+        url: https://blog.bj/
+        description: 博客百家 - 专注于发现和收藏国内外最优秀的个人独立博客站。
+      - title: 博客圈 | 致力于个人独立博客
+        logo: https://dh.duanxiansen.com/wp-content/uploads/2021/09/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210914170513.png
+        url: https://dh.duanxiansen.com/
+        description: 致力于个人优秀博客
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
         url: https://github.com/pipecraft-net/nav/issues
         description: 快来提交你的网站吧
         tags: 程序员,生活,创意
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/pipecraft-net/nav/issues
-        description: 快来提交你的网站吧
-        tags: 程序员,生活,创意
-      - title: Pipecraft 社区
-        logo: https://discuss.cn.pipecraft.net/assets/favicon-jtrdedht.png
-        url: https://discuss.cn.pipecraft.net/
-        description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
-        tags: RSS,Atom,聚合新闻,内容订阅
+      - title: 聚客盒
+        logo: https://jukebox.pipecraft.net/assets/favicon-brhoyfnr.png
+        url: https://jukebox.pipecraft.net/
+        description: 聚合程序员博客的宝盒，是一个非商业性质的，独立的，开放的，程序员社区。
+        tags: 程序员,博客,社区
 
   - category: 推荐
     hide_menu: true
     icon: linecons-star
     links:
-      - title: 抛砖问答
-        logo: https://pzwd.net/assets/avatars/hVgLBGkh1gxRpWiR.png
-        url: https://pzwd.net/
-        description: 抛砖问答(PZWD)是一个非商业性质的，独立的，开放的，程序员的问答社区。
-        tags: 程序员,问答,社区,stackoverflow
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/pipecraft-net/nav/issues
-        description: 快来提交你的网站吧
-        tags: 程序员,生活,创意
-      - title: Pipecraft 社区
-        logo: https://discuss.cn.pipecraft.net/assets/favicon-jtrdedht.png
-        url: https://discuss.cn.pipecraft.net/
-        description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
-        tags: RSS,Atom,聚合新闻,内容订阅
-      - title: GenEasy
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/geneasy
-        description: A command line tool that can easily generate HTML, Markdown documents, etc.
-        tags: cli,tools
+      - title: 十年之约——专题展示 | 一个人的寂寞，一群人的狂欢。
+        logo: https://www.foreverblog.cn/favicon.ico
+        url: https://www.foreverblog.cn/feeds.html
+        description: 十年之约是一个记录、展示独立博客的平台，即从加入这个活动起，我们的博客10年不关闭或者更久，保持更新和活力。把博客从爱好变成一种习惯，坚持10年，是一项很有意义的活动，我们希望更多的博主加入！
+      - title: 聚客盒
+        logo: https://jukebox.pipecraft.net/assets/favicon-brhoyfnr.png
+        url: https://jukebox.pipecraft.net/
+        description: 聚合程序员博客的宝盒，是一个非商业性质的，独立的，开放的，程序员社区。
+        tags: 程序员,博客,社区
+      - title: BlogHub
+        logo: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB80lEQVRYCWNoaGBg+rs8qubvqphnf1fG/qcLBtm1PKoGZDcD2HJ6WYxuz/KoGga6+hzdAatinjHQJcjRLUbijzpgaITA5+nB/3epy2Lg3eqy//fpKfw/6az1/0GBw//fS6NJzsZEhcDHSYH/V7DxEcRbZSX+f5gQQJIjSHbA4zLn/19nh8IxyMJbKVb/1wuJgB24VUbi/+9lxIcEyQ542eSJ1YcvGj3gIfS0yhWrGmxZnmoOABm+VkAY7IhrsWb0d8Cf5TH/1/AKgR1wM8mS/g64l2MHtnw1t+D/z9OCaeeAq9Gm/x+XO8PxwyLH/2c8df6v4hT4D7L8QaED0ZaDoo3kNIArO67iEvh/I97i/58VMbR1wFFrtf9nffRQ8HF7jf/roAkQVDD9WhRFtCNIDgFc2RBUNmyWEgeng7NeuvR3ACg+b6dZQxIir+D/30uIK4yoFgIgB7xq8QI7AJROiC2SqeqAZ7VucAd8mhxEVDRQ1QEnnDTBDgAlSFDBBAoVQphkBzytdv3/Y34EHH+fH/7/bZfv/9PuOnDfXwo1ImgxzGEkOwBXOQATB4XCn2XE+R7kCKIcACpatytJYcU7lKX/79NV+H/WW/f/q1Yvon1OUgjAFNOCJioEaGExzMxRBwyCrhmoZ0xEgUETNaDO6UB3zwHlh2fNHX4ajwAAAABJRU5ErkJggg==
+        url: https://bloghub.fun/
+        description: 一群自由而有趣的灵魂，终将在此相遇
+      - title: BlogFinder - 发现优秀的个人博客
+        logo: https://bf.zzxworld.com/images/favicon.png
+        url: https://bf.zzxworld.com/
+        description: BlogFinder(BF) 是一个博客聚合网站，愿景是发掘优秀的独立博客和内容，并展现给更多的人。
 
-  - category: 程序员博客
+  - category: 博客站聚合
+    icon: linecons-globe
+    links:
+      - title: 十年之约
+        logo: https://www.foreverblog.cn/favicon.ico
+        url: https://www.foreverblog.cn/blogs.html
+        description: 十年之约是一个记录、展示独立博客的平台，即从加入这个活动起，我们的博客10年不关闭或者更久，保持更新和活力。把博客从爱好变成一种习惯，坚持10年，是一项很有意义的活动，我们希望更多的博主加入！
+      - title: 寻我 | 优秀个人独立博客收录
+        logo: https://seekbetter.me/favicon.ico
+        url: https://seekbetter.me/?mode=blog
+        description: 收录文章质量良好，经常更新且建站时间久的优秀个人独立博客
+      - title: 中文独立博客列表
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="80">中</text></svg>
+        url: https://github.com/timqian/chinese-independent-blogs
+        description: GitHub 上面整理的中文独立博客列表.
+      - title: 原创技术博客大联盟 | techblog
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="80">原</text></svg>
+        url: http://techblog.pub/
+        description: 原创博客技术联盟
+        tags: 技术博客
+      - title: 博客志 - 优秀个人独立博客导航
+        logo: https://images.weserv.nl/?url=www.jetli.com.cn/favicon.ico&w=60&h=60
+        url: http://www.jetli.com.cn/
+        description: 建站于2006年，专注于收藏有价值的有效更新的优秀个人独立博客。
+      - title: BlogFinder - 发现优秀的个人博客
+        logo: https://bf.zzxworld.com/images/favicon.png
+        url: https://bf.zzxworld.com/s
+        description: BlogFinder(BF) 是一个博客聚合网站，愿景是发掘优秀的独立博客和内容，并展现给更多的人。
+      - title: 博客圈 | 致力于个人独立博客
+        logo: https://dh.duanxiansen.com/wp-content/uploads/2021/09/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210914170513.png
+        url: https://dh.duanxiansen.com/
+        description: 致力于个人优秀博客
+      - title: 博客大全 - 做最好的个人博客导航 - 博客我们 - BlogWe
+        logo: https://blogwe.com/favicon.ico
+        url: https://blogwe.com/
+        description: 博客我们 - Blogwe建站于2017年9月，本站坚持“只收录个人独立博客”的宗旨，经过1年多的努力，现已收录数百个人博客，已经成为最热门的博客网址导航网站之一。
+      - title: 博客百家 - BLOG.BJ
+        logo: https://blog.bj/assets/images/favicon.png
+        url: https://blog.bj/
+        description: 博客百家 - 专注于发现和收藏国内外最优秀的个人独立博客站。
+      - title: 个站商店
+        logo: https://storeweb.cn/html/img/storeweb.png
+        url: https://storeweb.cn/
+        description: 精致的博客社交平台,优质的博客导航大全,站长交流平台
+      - title: 鹅城 – 中文独立博客圈
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="80">鹅</text></svg>
+        url: https://www.jinbo123.com/echeng
+        description: 欢迎认真写博客的朋友加入！
+      - title: 大魏博客导航
+        logo: https://a.wwwsheep.com/favicon.ico
+        url: https://a.wwwsheep.com/
+        description: 大魏教练、金牛座、运动博主。博客内容多和运动方式相关，领域包含不限于铁、格斗、体能。
+
+  - category: 博客文章聚合
     icon: linecons-doc
     links:
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/pipecraft-net/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/pipecraft-net/nav/issues
-        description: 快来提交你的网站吧
-        tags: 程序员,生活,创意
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/pipecraft-net/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/pipecraft-net/nav/issues
-        description: 快来提交你的网站吧
+      - title: 聚客盒
+        logo: https://jukebox.pipecraft.net/assets/favicon-brhoyfnr.png
+        url: https://jukebox.pipecraft.net/
+        description: 聚合程序员博客的宝盒，是一个非商业性质的，独立的，开放的，程序员社区。
+        tags: 程序员,博客,社区
+      - title: 十年之约——专题展示 | 一个人的寂寞，一群人的狂欢。
+        logo: https://www.foreverblog.cn/favicon.ico
+        url: https://www.foreverblog.cn/feeds.html
+        description: 十年之约是一个记录、展示独立博客的平台，即从加入这个活动起，我们的博客10年不关闭或者更久，保持更新和活力。把博客从爱好变成一种习惯，坚持10年，是一项很有意义的活动，我们希望更多的博主加入！
+      - title: BlogHub
+        logo: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAB80lEQVRYCWNoaGBg+rs8qubvqphnf1fG/qcLBtm1PKoGZDcD2HJ6WYxuz/KoGga6+hzdAatinjHQJcjRLUbijzpgaITA5+nB/3epy2Lg3eqy//fpKfw/6az1/0GBw//fS6NJzsZEhcDHSYH/V7DxEcRbZSX+f5gQQJIjSHbA4zLn/19nh8IxyMJbKVb/1wuJgB24VUbi/+9lxIcEyQ542eSJ1YcvGj3gIfS0yhWrGmxZnmoOABm+VkAY7IhrsWb0d8Cf5TH/1/AKgR1wM8mS/g64l2MHtnw1t+D/z9OCaeeAq9Gm/x+XO8PxwyLH/2c8df6v4hT4D7L8QaED0ZaDoo3kNIArO67iEvh/I97i/58VMbR1wFFrtf9nffRQ8HF7jf/roAkQVDD9WhRFtCNIDgFc2RBUNmyWEgeng7NeuvR3ACg+b6dZQxIir+D/30uIK4yoFgIgB7xq8QI7AJROiC2SqeqAZ7VucAd8mhxEVDRQ1QEnnDTBDgAlSFDBBAoVQphkBzytdv3/Y34EHH+fH/7/bZfv/9PuOnDfXwo1ImgxzGEkOwBXOQATB4XCn2XE+R7kCKIcACpatytJYcU7lKX/79NV+H/WW/f/q1Yvon1OUgjAFNOCJioEaGExzMxRBwyCrhmoZ0xEgUETNaDO6UB3zwHlh2fNHX4ajwAAAABJRU5ErkJggg==
+        url: https://bloghub.fun/
+        description: 一群自由而有趣的灵魂，终将在此相遇
+      - title: 寻我 | 优秀个人独立博客收录
+        logo: https://seekbetter.me/favicon.ico
+        url: https://seekbetter.me/
+        description: 收录文章质量良好，经常更新且建站时间久的优秀个人独立博客
+      - title: BlogFinder - 发现优秀的个人博客
+        logo: https://bf.zzxworld.com/images/favicon.png
+        url: https://bf.zzxworld.com/
+        description: BlogFinder(BF) 是一个博客聚合网站，愿景是发掘优秀的独立博客和内容，并展现给更多的人。
+      - title: Blogval - 优质博文推送
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">B</text></svg>
+        url: http://cn.blogval.com/
+        description: Blogval的主要功能是推送独立博客的优质博文。
 
-  - category: 设计
-    icon: linecons-doc
+  - category: 博客微社区
+    icon: linecons-comment
     links:
-      - title: WebStack.cc - 设计师网址导航
-        logo: https://webstack.cc/assets/images/logo-collapsed@2x.png
-        url: https://webstack.cc/cn/
-        description: WebStack - 收集国内外优秀设计网站、UI设计资源网站、灵感创意网站、素材资源网站，定时更新分享优质产品设计书签。
-        tags: 设计师
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/pipecraft-net/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/pipecraft-net/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/pipecraft-net/nav/issues
-        description: 快来提交你的网站吧
+      - title: 聚客盒
+        logo: https://jukebox.pipecraft.net/assets/favicon-brhoyfnr.png
+        url: https://jukebox.pipecraft.net/
+        description: 聚合程序员博客的宝盒，是一个非商业性质的，独立的，开放的，程序员社区。
+        tags: 程序员,博客,社区
+      - title: 博客联盟社区
+        logo: https://community.blorg.cn/assets/favicon-tjz7d0nf.png
+        url: https://community.blorg.cn/
+        description: 博客联盟主要收录国内具有阅读价值的优秀原创个人博客，采用非常严格的全手工审查收录的运维模式。
 
-  - category: 社区
-    icon: linecons-doc
+  - category: 博客随机访问
+    icon: linecons-diamond
     links:
-      - title: 垂直社区网站导航
-        logo: https://pzwd.net/assets/avatars/hVgLBGkh1gxRpWiR.png
-        url: https://zh.pipecraft.net/communities/
-        description: 收集小而美的中文垂直社区网站的导航。
-        tags: 程序员,社区
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/pipecraft-net/nav/issues
-        description: 快来提交你的网站吧
+      - title: 开往-友链接力
+        logo: https://travellings.link/assets/travelling-dark.png
+        url: https://travellings.link/
+        description: https://github.com/volfclub/travellings
+      - title: 穿梭虫洞-随机访问十年之约友链博客
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="80">虫</text></svg>
+        url: https://www.foreverblog.cn/go.html
+        description: https://www.foreverblog.cn/notice/16.html
+
+

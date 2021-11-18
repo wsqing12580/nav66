@@ -10,7 +10,7 @@ site_name: 纵横网址导航
 # 网址导航页面关键字（可选）
 keywords: 纵横网址导航,网址导航,网站导航,上网导航,网址大全,常用网站,推荐网站,个人导航,个人书签,个人主页,hao123上网导航,hao123导航,hao123网址大全
 # 网址导航页面描述（可选）
-description: 收集小而美的中文垂直社区，微社区，垂直网址导航的网址导航网站。
+description: 收集小而美的中文垂直社区，微社区，垂直网址导航，个人独立博客聚合网站的网址导航网站。
 # 网址导航页面 URL（可选）
 url: https://zh.pipecraft.net/nav-sites/
 # Favicon（可选）
@@ -39,7 +39,7 @@ navigation_urls:
   - title: 垂直网址导航网站
     url: ../nav-sites/
     active: true
-  - title: 博客聚合网站
+  - title: 个人独立博客聚合网站
     url: ../blog-collections/
 
 ################
@@ -49,11 +49,10 @@ categories:
   - category: 新添加
     icon: linecons-star
     links:
-      - title: P站问答
+      - title: 个人独立博客聚合网站
         logo: https://pzwd.net/assets/avatars/hVgLBGkh1gxRpWiR.png
-        url: https://pzwd.net/
-        description: 抛砖问答(PZWD)是一个非商业性质的，独立的，开放的，程序员的问答社区。
-        tags: 程序员,问答,社区,stackoverflow
+        url: https://zh.pipecraft.net/blog-collections/
+        description: 收集小而美的个人独立博客聚合网站的导航。
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
         url: https://github.com/pipecraft-net/nav/issues
@@ -95,22 +94,21 @@ categories:
         description: A command line tool that can easily generate HTML, Markdown documents, etc.
         tags: cli,tools
 
-  - category: 程序员博客
+  - category: 博客
     icon: linecons-doc
     links:
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/pipecraft-net/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/pipecraft-net/nav/issues
-        description: 快来提交你的网站吧
-        tags: 程序员,生活,创意
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/pipecraft-net/nav/issues
-        description: 快来提交你的网站吧
+      - title: 博客百家 - BLOG.BJ
+        logo: https://blog.bj/assets/images/favicon.png
+        url: https://blog.bj/
+        description: 博客百家 - 专注于发现和收藏国内外最优秀的个人独立博客站。
+      - title: 博客圈 | 致力于个人独立博客
+        logo: https://dh.duanxiansen.com/wp-content/uploads/2021/09/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210914170513.png
+        url: https://dh.duanxiansen.com/
+        description: 致力于个人优秀博客
+      - title: 个人独立博客聚合网站
+        logo: https://pzwd.net/assets/avatars/hVgLBGkh1gxRpWiR.png
+        url: https://zh.pipecraft.net/blog-collections/
+        description: 收集小而美的个人独立博客聚合网站的导航。
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
         url: https://github.com/pipecraft-net/nav/issues
