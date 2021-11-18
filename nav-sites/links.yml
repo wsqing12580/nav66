@@ -14,9 +14,9 @@ description: 收集小而美的中文垂直社区，微社区，垂直网址导�
 # 网址导航页面 URL（可选）
 url: https://zh.pipecraft.net/nav-sites/
 # Favicon（可选）
-shortcut_icon: https://avatars.githubusercontent.com/u/91052735?s=70&v=4
+shortcut_icon: https://zh.pipecraft.net/logo.png
 # 社交分享图片（可选）
-og_img: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
+og_img: https://zh.pipecraft.net/logo.png
 # 主页 URL
 home_url: https://zh.pipecraft.net/
 # GitHub 链接（可选）
@@ -50,7 +50,7 @@ categories:
     icon: linecons-star
     links:
       - title: 个人独立博客聚合网站
-        logo: https://pzwd.net/assets/avatars/hVgLBGkh1gxRpWiR.png
+        logo: https://zh.pipecraft.net/logo.png
         url: https://zh.pipecraft.net/blog-collections/
         description: 收集小而美的个人独立博客聚合网站的导航。
       - title: 等你来加➕
@@ -139,7 +139,7 @@ categories:
     icon: linecons-doc
     links:
       - title: 垂直社区网站导航
-        logo: https://pzwd.net/assets/avatars/hVgLBGkh1gxRpWiR.png
+        logo: https://zh.pipecraft.net/logo.png
         url: https://zh.pipecraft.net/communities/
         description: 收集小而美的中文垂直社区网站的导航。
         tags: 程序员,社区

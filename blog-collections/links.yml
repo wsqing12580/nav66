@@ -14,9 +14,9 @@ description: 收集小而美的中文垂直社区，微社区，垂直网址导�
 # 网址导航页面 URL（可选）
 url: https://zh.pipecraft.net/blog-collections/
 # Favicon（可选）
-shortcut_icon: https://avatars.githubusercontent.com/u/91052735?s=70&v=4
+shortcut_icon: https://zh.pipecraft.net/logo.png
 # 社交分享图片（可选）
-og_img: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
+og_img: https://zh.pipecraft.net/logo.png
 # 主页 URL
 home_url: https://zh.pipecraft.net/
 # GitHub 链接（可选）
