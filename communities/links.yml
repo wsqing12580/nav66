@@ -172,6 +172,12 @@ categories:
         logo: https://www.bestyii.com/images/favicon.png
         url: https://www.bestyii.com/
         description: Best Yii | PHP Yii 开发框架最佳实践
+      - title: 一切伟大的事情都从编程和绘画开始
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
+        url: https://www.processing.love/
+        description: 欢迎来到中国最大的Processing学习交流论坛,在这里您可以进行Processing,p5.js,Processing for Android,Processing for Python等生成艺术技术,多媒体互动艺术,计算机生成艺术,创意编程等交流学习,快来加入吧！
+        tags: processing,p5.js
+
 
 
   - category: 设计

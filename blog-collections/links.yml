@@ -142,6 +142,10 @@ categories:
         logo: https://a.wwwsheep.com/favicon.ico
         url: https://a.wwwsheep.com/
         description: 大魏教练、金牛座、运动博主。博客内容多和运动方式相关，领域包含不限于铁、格斗、体能。
+      - title: Sanarous's Blog
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">S</text></svg>
+        url: https://bestzuo.cn/links
+        description: 友情链接 - Sanarous's Blog
 
   - category: 博客文章聚合
     icon: linecons-doc
