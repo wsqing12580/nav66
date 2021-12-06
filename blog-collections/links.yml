@@ -53,10 +53,10 @@ categories:
         logo: https://blog.bj/assets/images/favicon.png
         url: https://blog.bj/
         description: 博客百家 - 专注于发现和收藏国内外最优秀的个人独立博客站。
-      - title: 博客圈 | 致力于个人独立博客
-        logo: https://dh.duanxiansen.com/wp-content/uploads/2021/09/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210914170513.png
-        url: https://dh.duanxiansen.com/
-        description: 致力于个人优秀博客
+      # - title: 博客圈 | 致力于个人独立博客
+      #   logo: https://dh.duanxiansen.com/wp-content/uploads/2021/09/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210914170513.png
+      #   url: https://dh.duanxiansen.com/
+      #   description: 致力于个人优秀博客
       - title: 博客Park：独立博客的聚合
         logo: https://park.xdbin.com/favicon.ico
         url: https://park.xdbin.com/
@@ -117,10 +117,10 @@ categories:
         logo: https://bf.zzxworld.com/images/favicon.png
         url: https://bf.zzxworld.com/s
         description: BlogFinder(BF) 是一个博客聚合网站，愿景是发掘优秀的独立博客和内容，并展现给更多的人。
-      - title: 博客圈 | 致力于个人独立博客
-        logo: https://dh.duanxiansen.com/wp-content/uploads/2021/09/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210914170513.png
-        url: https://dh.duanxiansen.com/
-        description: 致力于个人优秀博客
+      # - title: 博客圈 | 致力于个人独立博客
+      #   logo: https://dh.duanxiansen.com/wp-content/uploads/2021/09/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210914170513.png
+      #   url: https://dh.duanxiansen.com/
+      #   description: 致力于个人优秀博客
       - title: 博客大全 - 做最好的个人博客导航 - 博客我们 - BlogWe
         logo: https://blogwe.com/favicon.ico
         url: https://blogwe.com/
@@ -137,10 +137,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="80">鹅</text></svg>
         url: https://www.jinbo123.com/echeng
         description: 欢迎认真写博客的朋友加入！
-      - title: 大魏博客导航
-        logo: https://a.wwwsheep.com/favicon.ico
-        url: https://a.wwwsheep.com/
-        description: 大魏教练、金牛座、运动博主。博客内容多和运动方式相关，领域包含不限于铁、格斗、体能。
+      # - title: 大魏博客导航
+      #   logo: https://a.wwwsheep.com/favicon.ico
+      #   url: https://a.wwwsheep.com/
+      #   description: 大魏教练、金牛座、运动博主。博客内容多和运动方式相关，领域包含不限于铁、格斗、体能。
       - title: Sanarous's Blog
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">S</text></svg>
         url: https://bestzuo.cn/links

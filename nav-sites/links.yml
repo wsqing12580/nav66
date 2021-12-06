@@ -100,10 +100,10 @@ categories:
         logo: https://blog.bj/assets/images/favicon.png
         url: https://blog.bj/
         description: 博客百家 - 专注于发现和收藏国内外最优秀的个人独立博客站。
-      - title: 博客圈 | 致力于个人独立博客
-        logo: https://dh.duanxiansen.com/wp-content/uploads/2021/09/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210914170513.png
-        url: https://dh.duanxiansen.com/
-        description: 致力于个人优秀博客
+      # - title: 博客圈 | 致力于个人独立博客
+      #   logo: https://dh.duanxiansen.com/wp-content/uploads/2021/09/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210914170513.png
+      #   url: https://dh.duanxiansen.com/
+      #   description: 致力于个人优秀博客
       - title: 个人独立博客聚合网站
         logo: https://zh.pipecraft.net/logo.png
         url: https://zh.pipecraft.net/blog-collections/
