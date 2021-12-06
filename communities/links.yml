@@ -49,15 +49,14 @@ categories:
   - category: 新添加
     icon: linecons-star
     links:
+      - title: Paybase
+        logo: https://paybase.cn/assets/favicon-h2w9xije.ico
+        url: https://paybase.cn/
+        description: Paybase，一个专注于支付领域解决方案和技术垂直论坛
       - title: Best Yii
         logo: https://www.bestyii.com/images/favicon.png
         url: https://www.bestyii.com/
         description: Best Yii | PHP Yii 开发框架最佳实践
-      - title: VFX SKILL技术社区
-        logo: https://sdkfiledl.jiguang.cn/cdn/xmspublic/assets/favicon-qvzveaya.ico
-        url: https://www.vfxskill.com/
-        description: 这是一个游戏特效,动画和技术美术的技术分享论坛!我们分享专业技术,在线交流,用爱发电。
-        tags: 游戏动画,CG专业技术
       - title: 聚客盒
         logo: https://jukebox.pipecraft.net/assets/favicon-brhoyfnr.png
         url: https://jukebox.pipecraft.net/
@@ -177,8 +176,10 @@ categories:
         url: https://www.processing.love/
         description: 欢迎来到中国最大的Processing学习交流论坛,在这里您可以进行Processing,p5.js,Processing for Android,Processing for Python等生成艺术技术,多媒体互动艺术,计算机生成艺术,创意编程等交流学习,快来加入吧！
         tags: processing,p5.js
-
-
+      - title: Paybase
+        logo: https://paybase.cn/assets/favicon-h2w9xije.ico
+        url: https://paybase.cn/
+        description: Paybase，一个专注于支付领域解决方案和技术垂直论坛
 
   - category: 设计
     icon: linecons-doc

@@ -57,11 +57,10 @@ categories:
         logo: https://dh.duanxiansen.com/wp-content/uploads/2021/09/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210914170513.png
         url: https://dh.duanxiansen.com/
         description: 致力于个人优秀博客
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/pipecraft-net/nav/issues
-        description: 快来提交你的网站吧
-        tags: 程序员,生活,创意
+      - title: 博客Park：独立博客的聚合
+        logo: https://park.xdbin.com/favicon.ico
+        url: https://park.xdbin.com/
+        description: 陆止于此，海始于斯
       - title: 聚客盒
         logo: https://jukebox.pipecraft.net/assets/favicon-brhoyfnr.png
         url: https://jukebox.pipecraft.net/
@@ -146,6 +145,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">S</text></svg>
         url: https://bestzuo.cn/links
         description: 友情链接 - Sanarous's Blog
+      - title: 博客Park：独立博客的聚合
+        logo: https://park.xdbin.com/favicon.ico
+        url: https://park.xdbin.com/#/site
+        description: 陆止于此，海始于斯
 
   - category: 博客文章聚合
     icon: linecons-doc
@@ -175,6 +178,10 @@ categories:
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">B</text></svg>
         url: http://cn.blogval.com/
         description: Blogval的主要功能是推送独立博客的优质博文。
+      - title: 博客Park：独立博客的聚合
+        logo: https://park.xdbin.com/favicon.ico
+        url: https://park.xdbin.com/
+        description: 陆止于此，海始于斯
 
   - category: 博客微社区
     icon: linecons-comment
