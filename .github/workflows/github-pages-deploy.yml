@@ -16,6 +16,7 @@ jobs:
           geneasy -t index.hbs -o public/index.html links.yml
           geneasy -t index.hbs -o public/communities/index.html communities/links.yml
           geneasy -t index.hbs -o public/nav-sites/index.html nav-sites/links.yml
+          geneasy -t index.hbs -o public/tools/index.html tools/links.yml
           geneasy -t index.hbs -o public/blog-collections/index.html blog-collections/links.yml
           geneasy -t index.hbs -o public/links/index.html links/links.yml
 

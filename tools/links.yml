@@ -3,16 +3,16 @@
 ## 网址导航页面配置
 ################
 # 网站标题
-title: 垂直网址导航网站
+title: 在线工具网址导航网站
 site_name: 纵横网址导航
 # 网站 LOGO（可选）
 # logo: https://webstack.cc/assets/images/logo@2x.png
 # 网址导航页面关键字（可选）
-keywords: 纵横网址导航,网址导航,网站导航,上网导航,网址大全,常用网站,推荐网站,个人导航,个人书签,个人主页,hao123上网导航,hao123导航,hao123网址大全
+keywords: 在线工具,免费工具,纵横网址导航,网址导航,网站导航,上网导航,网址大全,常用网站,推荐网站,个人导航,个人书签,个人主页,hao123上网导航,hao123导航,hao123网址大全
 # 网址导航页面描述（可选）
 description: 收集小而美的中文垂直社区，微社区，垂直网址导航，在线工具网站，个人独立博客聚合网站的网址导航网站。
 # 网址导航页面 URL（可选）
-url: https://zh.pipecraft.net/nav-sites/
+url: https://zh.pipecraft.net/tools/
 # Favicon（可选）
 shortcut_icon: https://zh.pipecraft.net/logo.png
 # 社交分享图片（可选）
@@ -38,9 +38,9 @@ navigation_urls:
     url: ../communities/
   - title: 垂直网址导航网站
     url: ../nav-sites/
-    active: true
   - title: 在线工具网站
     url: ../tools/
+    active: true
   - title: 个人独立博客聚合网站
     url: ../blog-collections/
 
