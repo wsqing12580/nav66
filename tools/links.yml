@@ -51,148 +51,32 @@ categories:
   - category: 新添加
     icon: linecons-star
     links:
-      - title: 个人独立博客聚合网站
-        logo: https://zh.pipecraft.net/logo.png
-        url: https://zh.pipecraft.net/blog-collections/
-        description: 收集小而美的个人独立博客聚合网站的导航。
-        tags: 博客
-      - title: 苦心ios导航 - 果粉用的上的导航网站
-        logo: https://93665.xin/wp-content/uploads/2021/03/cropped-7c6e4f2591831e881d3927-192x192.png
-        url: https://93665.xin/
-        description: 苦心ios导航，收录有关ios的一切资源，分享有关ios的一切，各种ios内购破解，ios源,ios付费软件免费下载，还有各种ios技巧，果粉，都值得进来一看！
-        tags: ios
-      - title: 音速装机 - 群狼动力
-        logo: https://cdn.jsdelivr.net/gh/volfclub/tundra-sonic/assets/images/favicon.png
-        url: https://sonic.volf.club/
-        description: Gotta Go Fast !常用又好用，电脑软件的官方下载地址合集
-        tags: 装机,软件下载,windows,电脑软件,电脑必备软件
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/pipecraft-net/nav/issues
-        description: 快来提交你的网站吧
+      - title: 即时工具 - 致力打造即用即走型在线工具箱
+        logo: https://www.67tool.com/favicon.ico
+        url: https://www.67tool.com/
+        description: 致力开发即用即走型在线工具，无需客户端在线一键使用。拥有视频工具、音频工具、图片工具、 PDF工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等等工具。同时拥有良好的用户体验，为您的工作学习提升效率！
+      - title: 在线工具 - 你的工具箱
+        logo: https://tool.lu/favicon.ico
+        url: https://tool.lu/
+        description: 在线工具,开发人员工具,代码格式化、压缩、加密、解密,下载链接转换,json格式化,正则测试工具,favicon在线制作,字帖工具,中文简繁体转换,迅雷下载链接转换,进制转换,二维码
+      - title: 开发者武器库 · 属于程序员的工具箱
+        logo: https://devtool.tech/logo.svg
+        url: https://devtool.tech/
+        description: 开发者武器库，做开发者最专业最好用的专业工具箱
 
   - category: 推荐
-    hide_menu: true
     icon: linecons-star
     links:
-      - title: 个人独立博客聚合网站
-        logo: https://zh.pipecraft.net/logo.png
-        url: https://zh.pipecraft.net/blog-collections/
-        description: 收集小而美的个人独立博客聚合网站的导航。
-        tags: 博客
-      - title: WebStack.cc - 设计师网址导航
-        logo: https://webstack.cc/assets/images/logo-collapsed@2x.png
-        url: https://webstack.cc/cn/
-        description: WebStack - 收集国内外优秀设计网站、UI设计资源网站、灵感创意网站、素材资源网站，定时更新分享优质产品设计书签。
-        tags: 设计
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/pipecraft-net/nav/issues
-        description: 快来提交你的网站吧
-      - title: 垂直社区网站导航
-        logo: https://zh.pipecraft.net/logo.png
-        url: https://zh.pipecraft.net/communities/
-        description: 收集小而美的中文垂直社区网站的导航。
-        tags: 程序员,社区
+      - title: 即时工具 - 致力打造即用即走型在线工具箱
+        logo: https://www.67tool.com/favicon.ico
+        url: https://www.67tool.com/
+        description: 致力开发即用即走型在线工具，无需客户端在线一键使用。拥有视频工具、音频工具、图片工具、 PDF工具、办公辅助、设计工具、文本工具、数字工具、加密工具、单位转换等等工具。同时拥有良好的用户体验，为您的工作学习提升效率！
+      - title: 在线工具 - 你的工具箱
+        logo: https://tool.lu/favicon.ico
+        url: https://tool.lu/
+        description: 在线工具,开发人员工具,代码格式化、压缩、加密、解密,下载链接转换,json格式化,正则测试工具,favicon在线制作,字帖工具,中文简繁体转换,迅雷下载链接转换,进制转换,二维码
+      - title: 开发者武器库 · 属于程序员的工具箱
+        logo: https://devtool.tech/logo.svg
+        url: https://devtool.tech/
+        description: 开发者武器库，做开发者最专业最好用的专业工具箱
 
-  - category: 博客
-    icon: linecons-doc
-    links:
-      - title: 博客百家 - BLOG.BJ
-        logo: https://blog.bj/assets/images/favicon.png
-        url: https://blog.bj/
-        description: 博客百家 - 专注于发现和收藏国内外最优秀的个人独立博客站。
-      # - title: 博客圈 | 致力于个人独立博客
-      #   logo: https://dh.duanxiansen.com/wp-content/uploads/2021/09/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20210914170513.png
-      #   url: https://dh.duanxiansen.com/
-      #   description: 致力于个人优秀博客
-      - title: 个人独立博客聚合网站
-        logo: https://zh.pipecraft.net/logo.png
-        url: https://zh.pipecraft.net/blog-collections/
-        description: 收集小而美的个人独立博客聚合网站的导航。
-        tags: 博客
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/pipecraft-net/nav/issues
-        description: 快来提交你的网站吧
-
-  - category: 开发
-    icon: linecons-doc
-    links:
-      - title: 苦心ios导航 - 果粉用的上的导航网站
-        logo: https://93665.xin/wp-content/uploads/2021/03/cropped-7c6e4f2591831e881d3927-192x192.png
-        url: https://93665.xin/
-        description: 苦心ios导航，收录有关ios的一切资源，分享有关ios的一切，各种ios内购破解，ios源,ios付费软件免费下载，还有各种ios技巧，果粉，都值得进来一看！
-        tags: ios
-      - title: 创造狮 创意工作者导航
-        logo: https://images.weserv.nl/?url=http://chuangzaoshi.com/assets/images/favicon.png&w=60&h=60
-        url: http://chuangzaoshi.com/code
-        description: 创造狮，一个创意工作者的导航，专注分享正版优质设计、前端、产品、运营的书签导航，设计教程、设计规范、颜色搭配、灵感创意、前端框架、开发者工具、互联网新品推荐、运营数据分析、自媒体和工具利器好用的分类导航大全
-        tags: 前端开发
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/pipecraft-net/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/pipecraft-net/nav/issues
-        description: 快来提交你的网站吧
-
-  - category: 设计
-    icon: linecons-doc
-    links:
-      - title: WebStack.cc - 设计师网址导航
-        logo: https://webstack.cc/assets/images/logo-collapsed@2x.png
-        url: https://webstack.cc/cn/
-        description: WebStack - 收集国内外优秀设计网站、UI设计资源网站、灵感创意网站、素材资源网站，定时更新分享优质产品设计书签。
-        tags: 设计
-      - title: 创造狮 创意工作者导航
-        logo: https://images.weserv.nl/?url=http://chuangzaoshi.com/assets/images/favicon.png&w=60&h=60
-        url: http://chuangzaoshi.com/
-        description: 创造狮，一个创意工作者的导航，专注分享正版优质设计、前端、产品、运营的书签导航，设计教程、设计规范、颜色搭配、灵感创意、前端框架、开发者工具、互联网新品推荐、运营数据分析、自媒体和工具利器好用的分类导航大全
-        tags: 设计
-      - title: 优设导航 - 学设计从这里开始！
-        logo: https://image.uisdc.com/wp-content/uploads/2012/11/%E4%BC%98%E8%AE%BE%E7%BD%91%E7%8D%A0%E9%BA%9D%E9%B8%A11.png
-        url: https://hao.uisdc.com/
-        description: 设计导航2013年上线至今，为设计师精选国内外优质网站。提供UI设计、设计教程、素材下载、高清图库、配色方案、App设计、网页设计等全方位设计师网站导航指引。每周更新！是优设网旗下最实用、最全面、最好用的设计师导航！
-        tags: 设计
-      - title: 46设计导航_设计网站大全_46design.com
-        logo: https://images.weserv.nl/?url=pic.46design.com/2018/12/27/4798223.png&w=60&h=60
-        url: http://www.46design.com/
-        description: 46设计导航网是最全的设计师导航网站，电商网页UI设计师必备的设计网址导航网站大全，精选优秀设计网站、设计教程、免费无版权可商用设计素材下载和设计技巧
-
-  - category: 社区
-    icon: linecons-doc
-    links:
-      - title: 垂直社区网站导航
-        logo: https://zh.pipecraft.net/logo.png
-        url: https://zh.pipecraft.net/communities/
-        description: 收集小而美的中文垂直社区网站的导航。
-        tags: 程序员,社区
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/pipecraft-net/nav/issues
-        description: 快来提交你的网站吧
-
-  - category: 资源
-    icon: linecons-doc
-    links:
-      - title: 阿里云盘资源导航
-        logo: https://aliyun.panpanr.com/favicon.ico
-        url: https://aliyun.panpanr.com/
-        description: 阿里云盘资源导航，最纯粹的云盘资源导航平台，为资源而生。
-        tags: 云盘,资源
-      - title: 音速装机 - 群狼动力
-        logo: https://cdn.jsdelivr.net/gh/volfclub/tundra-sonic/assets/images/favicon.png
-        url: https://sonic.volf.club/
-        description: Gotta Go Fast !常用又好用，电脑软件的官方下载地址合集
-        tags: 装机,软件下载,windows,电脑软件,电脑必备软件
-      - title: 狼牌工作网址导航 - 导航
-        logo: https://www.volf.club/favicon.ico
-        url: https://www.volf.club/
-        description: 工具，资源，方法，All IN ONE的办公工作网址导航。
-        tags: 设计,软件,安全,办公
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/pipecraft-net/nav/issues
-        description: 快来提交你的网站吧
