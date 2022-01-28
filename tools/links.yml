@@ -59,10 +59,22 @@ categories:
         logo: https://tool.lu/favicon.ico
         url: https://tool.lu/
         description: 在线工具,开发人员工具,代码格式化、压缩、加密、解密,下载链接转换,json格式化,正则测试工具,favicon在线制作,字帖工具,中文简繁体转换,迅雷下载链接转换,进制转换,二维码
+      - title: 为用户提供便利、丰富的在线工具 - 优工具
+        logo: https://toolbon.com/favicon.ico
+        url: https://toolbon.com/
+        description: 优工具站(toolbon.com)，提供图片工具、文本工具、转换工具、编码解码、站长工具等便利的在线工具服务
+      - title: 在线工具箱
+        logo: https://tools.fun/favicon.ico
+        url: https://tools.fun/
+        description: 开发人员工具箱，时间戳转换，json格式化，正则表达式，URLEncode，加密解密，Crontab，websocket，md5编码，base64编码，颜色转换，JSON/YAML/XML转换，AES、DES、RSA，数字进制转换，图片压缩，二维码生成，JavaScript格式化压缩，代码差异对比
       - title: 开发者武器库 · 属于程序员的工具箱
         logo: https://devtool.tech/logo.svg
         url: https://devtool.tech/
         description: 开发者武器库，做开发者最专业最好用的专业工具箱
+      - title: 爱资料工具-好用的在线工具箱
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="80">爱</text></svg>
+        url: https://www.toolnb.com/
+        description: 爱资料工具(toolnb.com),为开发运维提供全面的在线工具箱,已开发工具400款,包含开发工具,运维工具,常用工具,SEO站长工具等,是好用,方便的在线工具网站.
 
   - category: 推荐
     icon: linecons-star
@@ -75,8 +87,21 @@ categories:
         logo: https://tool.lu/favicon.ico
         url: https://tool.lu/
         description: 在线工具,开发人员工具,代码格式化、压缩、加密、解密,下载链接转换,json格式化,正则测试工具,favicon在线制作,字帖工具,中文简繁体转换,迅雷下载链接转换,进制转换,二维码
+      - title: 为用户提供便利、丰富的在线工具 - 优工具
+        logo: https://toolbon.com/favicon.ico
+        url: https://toolbon.com/
+        description: 优工具站(toolbon.com)，提供图片工具、文本工具、转换工具、编码解码、站长工具等便利的在线工具服务
+      - title: 在线工具箱
+        logo: https://tools.fun/favicon.ico
+        url: https://tools.fun/
+        description: 开发人员工具箱，时间戳转换，json格式化，正则表达式，URLEncode，加密解密，Crontab，websocket，md5编码，base64编码，颜色转换，JSON/YAML/XML转换，AES、DES、RSA，数字进制转换，图片压缩，二维码生成，JavaScript格式化压缩，代码差异对比
       - title: 开发者武器库 · 属于程序员的工具箱
         logo: https://devtool.tech/logo.svg
         url: https://devtool.tech/
         description: 开发者武器库，做开发者最专业最好用的专业工具箱
+      - title: 爱资料工具-好用的在线工具箱
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="80">爱</text></svg>
+        url: https://www.toolnb.com/
+        description: 爱资料工具(toolnb.com),为开发运维提供全面的在线工具箱,已开发工具400款,包含开发工具,运维工具,常用工具,SEO站长工具等,是好用,方便的在线工具网站.
+
 
