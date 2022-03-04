@@ -49,6 +49,14 @@ categories:
   - category: 新添加
     icon: linecons-star
     links:
+      - title: Paybase
+        logo: https://paybase.cn/assets/favicon-h2w9xije.ico
+        url: https://paybase.cn/
+        description: Paybase，一个专注于支付领域解决方案和技术垂直论坛
+      - title: Best Yii
+        logo: https://www.bestyii.com/images/favicon.png
+        url: https://www.bestyii.com/
+        description: Best Yii | PHP Yii 开发框架最佳实践
       - title: 聚客盒
         logo: https://jukebox.pipecraft.net/assets/favicon-brhoyfnr.png
         url: https://jukebox.pipecraft.net/
@@ -89,21 +97,8 @@ categories:
         url: https://discuss.cn.pipecraft.net/
         description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
         tags: RSS,Atom,聚合新闻,内容订阅
-      - title: GenEasy
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/geneasy
-        description: A command line tool that can easily generate HTML, Markdown documents, etc.
-        tags: cli,tools
-
-  - category: 程序员博客
-    icon: linecons-doc
-    links:
       - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/pipecraft-net/nav/issues
-        description: 快来提交你的网站吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
         url: https://github.com/pipecraft-net/nav/issues
         description: 快来提交你的网站吧
         tags: 程序员,生活,创意
@@ -153,7 +148,7 @@ categories:
         description: CNode 社区为国内最大最具影响力的 Node.js 开源技术社区，致力于 Node.js 的技术研究。
         tags: node.js
       - title: GoCN社区
-        logo: https://gocn.vip/uploads/logo.png
+        logo: https://cdn.gocn.vip/gocn-forum/static/logo.346ad1a5.png
         url: https://gocn.vip/topics
         description: GopherChina专注于为 Go语言开发者的技术提升，用户数量、活跃度和内容热度均居国内首位。及时推送官方最新资讯、精选优质语言学习文档、传递一手深工程实践经验，并且会定期举办线下meetup、峰会、培训及赛事，旨在打造全方位权威的 Go 社区。
         tags: golang,homeland
@@ -172,14 +167,28 @@ categories:
         url: https://jukebox.pipecraft.net/
         description: 聚合程序员博客的宝盒，是一个非商业性质的，独立的，开放的，程序员社区。
         tags: 程序员,博客,社区
+      - title: Best Yii
+        logo: https://www.bestyii.com/images/favicon.png
+        url: https://www.bestyii.com/
+        description: Best Yii | PHP Yii 开发框架最佳实践
+      - title: 一切伟大的事情都从编程和绘画开始
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
+        url: https://www.processing.love/
+        description: 欢迎来到中国最大的Processing学习交流论坛,在这里您可以进行Processing,p5.js,Processing for Android,Processing for Python等生成艺术技术,多媒体互动艺术,计算机生成艺术,创意编程等交流学习,快来加入吧！
+        tags: processing,p5.js
+      - title: Paybase
+        logo: https://paybase.cn/assets/favicon-h2w9xije.ico
+        url: https://paybase.cn/
+        description: Paybase，一个专注于支付领域解决方案和技术垂直论坛
 
   - category: 设计
     icon: linecons-doc
     links:
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
-        url: https://github.com/pipecraft-net/nav/issues
-        description: 快来提交你的网站吧
+      - title: VFX SKILL技术社区
+        logo: https://sdkfiledl.jiguang.cn/cdn/xmspublic/assets/favicon-qvzveaya.ico
+        url: https://www.vfxskill.com/
+        description: 这是一个游戏特效,动画和技术美术的技术分享论坛!我们分享专业技术,在线交流,用爱发电。
+        tags: 游戏动画,CG专业技术
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
         url: https://github.com/pipecraft-net/nav/issues
@@ -223,7 +232,7 @@ categories:
         description: 找兰友，赏兰花，当然是兰友俱乐部了，快快搜索 lanyou.club 一起发现好兰花、好兰友！
         tags:
       - title: MoreSound电子音乐社区
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em"  font-size="90">M</text></svg>
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">M</text></svg>
         url: https://www.moresound.club
         description: MoreSound是一个全新的电子音乐交流社区，致力于促进国内电子音乐的发展！
         tags: 音乐
@@ -251,7 +260,7 @@ categories:
     icon: linecons-doc
     links:
       - title: Flarum
-        logo: https://flarum.org/favicon.ico
+        logo: https://images.weserv.nl/?url=https://flarum.org/favicon.ico&w=60&h=60
         url: https://flarum.org/
         description: Flarum is the next-generation forum software that makes online discussion fun. It's simple, fast, and free.
         tags: php,flarum

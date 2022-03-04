@@ -150,7 +150,7 @@ categories:
         description: CNode 社区为国内最大最具影响力的 Node.js 开源技术社区，致力于 Node.js 的技术研究。
         tags: node.js
       - title: GoCN社区
-        logo: https://gocn.vip/uploads/logo.png
+        logo: https://cdn.gocn.vip/gocn-forum/static/logo.346ad1a5.png
         url: https://gocn.vip/topics
         description: GopherChina专注于为 Go语言开发者的技术提升，用户数量、活跃度和内容热度均居国内首位。及时推送官方最新资讯、精选优质语言学习文档、传递一手深工程实践经验，并且会定期举办线下meetup、峰会、培训及赛事，旨在打造全方位权威的 Go 社区。
         tags: golang,homeland
@@ -262,7 +262,7 @@ categories:
     icon: linecons-doc
     links:
       - title: Flarum
-        logo: https://flarum.org/favicon.ico
+        logo: https://images.weserv.nl/?url=https://flarum.org/favicon.ico&w=60&h=60
         url: https://flarum.org/
         description: Flarum is the next-generation forum software that makes online discussion fun. It's simple, fast, and free.
         tags: php,flarum

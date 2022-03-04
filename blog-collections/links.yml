@@ -52,7 +52,7 @@ categories:
     icon: linecons-star
     links:
       - title: 博客百家 - BLOG.BJ
-        logo: https://blog.bj/assets/images/favicon.png
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="80">博</text></svg>
         url: https://blog.bj/
         description: 博客百家 - 专注于发现和收藏国内外最优秀的个人独立博客站。
       # - title: 博客圈 | 致力于个人独立博客
@@ -99,9 +99,9 @@ categories:
         url: https://www.foreverblog.cn/blogs.html
         description: 十年之约是一个记录、展示独立博客的平台，即从加入这个活动起，我们的博客10年不关闭或者更久，保持更新和活力。把博客从爱好变成一种习惯，坚持10年，是一项很有意义的活动，我们希望更多的博主加入！
       - title: 寻我 | 优秀个人独立博客收录
-        logo: https://seekbetter.me/favicon.ico
+        # logo: https://seekbetter.me/favicon.ico
         url: https://seekbetter.me/?mode=blog
-        description: 收录文章质量良好，经常更新且建站时间久的优秀个人独立博客
+        description: (无法访问 2022/03/04) 收录文章质量良好，经常更新且建站时间久的优秀个人独立博客
       - title: 中文独立博客列表
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="80">中</text></svg>
         url: https://github.com/timqian/chinese-independent-blogs
@@ -124,15 +124,15 @@ categories:
       #   url: https://dh.duanxiansen.com/
       #   description: 致力于个人优秀博客
       - title: 博客大全 - 做最好的个人博客导航 - 博客我们 - BlogWe
-        logo: https://blogwe.com/favicon.ico
+        # logo: https://blogwe.com/favicon.ico
         url: https://blogwe.com/
-        description: 博客我们 - Blogwe建站于2017年9月，本站坚持“只收录个人独立博客”的宗旨，经过1年多的努力，现已收录数百个人博客，已经成为最热门的博客网址导航网站之一。
+        description: (无法访问 2022/03/04) 博客我们 - Blogwe建站于2017年9月，本站坚持“只收录个人独立博客”的宗旨，经过1年多的努力，现已收录数百个人博客，已经成为最热门的博客网址导航网站之一。
       - title: 博客百家 - BLOG.BJ
-        logo: https://blog.bj/assets/images/favicon.png
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="80">博</text></svg>
         url: https://blog.bj/
         description: 博客百家 - 专注于发现和收藏国内外最优秀的个人独立博客站。
       - title: 个站商店
-        logo: https://storeweb.cn/html/img/storeweb.png
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="80">个</text></svg>
         url: https://storeweb.cn/
         description: 精致的博客社交平台,优质的博客导航大全,站长交流平台
       - title: 鹅城 – 中文独立博客圈
@@ -169,9 +169,9 @@ categories:
         url: https://bloghub.fun/
         description: 一群自由而有趣的灵魂，终将在此相遇
       - title: 寻我 | 优秀个人独立博客收录
-        logo: https://seekbetter.me/favicon.ico
+        # logo: https://seekbetter.me/favicon.ico
         url: https://seekbetter.me/
-        description: 收录文章质量良好，经常更新且建站时间久的优秀个人独立博客
+        description: (无法访问 2022/03/04) 收录文章质量良好，经常更新且建站时间久的优秀个人独立博客
       - title: BlogFinder - 发现优秀的个人博客
         logo: https://bf.zzxworld.com/images/favicon.png
         url: https://bf.zzxworld.com/

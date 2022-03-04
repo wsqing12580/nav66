@@ -99,7 +99,7 @@ categories:
     icon: linecons-doc
     links:
       - title: 博客百家 - BLOG.BJ
-        logo: https://blog.bj/assets/images/favicon.png
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="80">博</text></svg>
         url: https://blog.bj/
         description: 博客百家 - 专注于发现和收藏国内外最优秀的个人独立博客站。
       # - title: 博客圈 | 致力于个人独立博客
