@@ -51,6 +51,10 @@ categories:
   - category: 新添加
     icon: linecons-star
     links:
+      - title: 优秀工具箱集合
+        logo: https://awesome-toolbox-chinese.bestxtools.com/favicon.ico
+        url: https://awesome-toolbox-chinese.bestxtools.com/
+        description: 收集，推荐好用、优秀的工具箱。工具箱大全。
       - title: 好工具周刊 - 发现并分享有趣，有创意，免费、好用的工具
         logo: https://discuss-cn.bestxtools.com/assets/favicon-ynnfvqi5.png
         url: https://discuss-cn.bestxtools.com/t/weekly
@@ -71,6 +75,10 @@ categories:
   - category: 推荐
     icon: linecons-star
     links:
+      - title: 优秀工具箱集合
+        logo: https://awesome-toolbox-chinese.bestxtools.com/favicon.ico
+        url: https://awesome-toolbox-chinese.bestxtools.com/
+        description: 收集，推荐好用、优秀的工具箱。工具箱大全。
       - title: 即时工具 - 致力打造即用即走型在线工具箱
         logo: https://www.67tool.com/favicon.ico
         url: https://www.67tool.com/

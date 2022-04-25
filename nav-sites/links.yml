@@ -51,6 +51,14 @@ categories:
   - category: 新添加
     icon: linecons-star
     links:
+      - title: Toools.design - 设计资源与工具导航网站
+        logo: https://uploads-ssl.webflow.com/5ce10a4c0b5f0b05f522e746/61fac4d72cef8d63705fdd1d_toools-design-webclip-icon.jpg
+        url: https://www.toools.design/
+        description: Design Resources Archive & Newsletter
+      - title: devtooly - 前端开发工具分类目录
+        logo: https://devtooly.com/favicon.ico
+        url: https://devtooly.com/
+        description: Frontend developer tools, all-in-one place!
       - title: 个人独立博客聚合网站
         logo: https://zh.pipecraft.net/logo.png
         url: https://zh.pipecraft.net/blog-collections/
@@ -61,15 +69,6 @@ categories:
         url: https://93665.xin/
         description: 苦心ios导航，收录有关ios的一切资源，分享有关ios的一切，各种ios内购破解，ios源,ios付费软件免费下载，还有各种ios技巧，果粉，都值得进来一看！
         tags: ios
-      - title: 音速装机 - 群狼动力
-        logo: https://cdn.jsdelivr.net/gh/volfclub/tundra-sonic/assets/images/favicon.png
-        url: https://sonic.volf.club/
-        description: Gotta Go Fast !常用又好用，电脑软件的官方下载地址合集
-        tags: 装机,软件下载,windows,电脑软件,电脑必备软件
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/pipecraft-net/nav/issues
-        description: 快来提交你的网站吧
 
   - category: 推荐
     hide_menu: true
@@ -129,10 +128,10 @@ categories:
         url: http://chuangzaoshi.com/code
         description: 创造狮，一个创意工作者的导航，专注分享正版优质设计、前端、产品、运营的书签导航，设计教程、设计规范、颜色搭配、灵感创意、前端框架、开发者工具、互联网新品推荐、运营数据分析、自媒体和工具利器好用的分类导航大全
         tags: 前端开发
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/pipecraft-net/nav/issues
-        description: 快来提交你的网站吧
+      - title: devtooly - 前端开发工具分类目录
+        logo: https://devtooly.com/favicon.ico
+        url: https://devtooly.com/
+        description: Frontend developer tools, all-in-one place!
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
         url: https://github.com/pipecraft-net/nav/issues
@@ -160,6 +159,10 @@ categories:
         logo: https://images.weserv.nl/?url=pic.46design.com/2018/12/27/4798223.png&w=60&h=60
         url: http://www.46design.com/
         description: 46设计导航网是最全的设计师导航网站，电商网页UI设计师必备的设计网址导航网站大全，精选优秀设计网站、设计教程、免费无版权可商用设计素材下载和设计技巧
+      - title: Toools.design - 设计资源与工具导航网站
+        logo: https://uploads-ssl.webflow.com/5ce10a4c0b5f0b05f522e746/61fac4d72cef8d63705fdd1d_toools-design-webclip-icon.jpg
+        url: https://www.toools.design/
+        description: Design Resources Archive & Newsletter
 
   - category: 社区
     icon: linecons-doc
