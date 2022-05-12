@@ -51,6 +51,10 @@ categories:
   - category: 新添加
     icon: linecons-star
     links:
+      - title: 十年之约
+        logo: https://xyears.cn/view/img/favicon.ico
+        url: https://xyears.cn/
+        description: 中文独立博客交流论坛
       - title: 博客百家 - BLOG.BJ
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="80">博</text></svg>
         url: https://blog.bj/
@@ -193,6 +197,10 @@ categories:
         url: https://jukebox.pipecraft.net/
         description: 聚合程序员博客的宝盒，是一个非商业性质的，独立的，开放的，程序员社区。
         tags: 程序员,博客,社区
+      - title: 十年之约
+        logo: https://xyears.cn/view/img/favicon.ico
+        url: https://xyears.cn/
+        description: 中文独立博客交流论坛
       - title: 博客联盟社区
         logo: https://community.blorg.cn/assets/favicon-tjz7d0nf.png
         url: https://community.blorg.cn/
