@@ -76,8 +76,8 @@ categories:
         description: 抛砖问答(PZWD)是一个非商业性质的，独立的，开放的，程序员的问答社区。
         tags: 程序员,问答,社区,stackoverflow
       - title: Pipecraft 社区
-        logo: https://discuss.cn.pipecraft.net/assets/favicon-jtrdedht.png
-        url: https://discuss.cn.pipecraft.net/
+        logo: https://discuss-cn.pipecraft.net/assets/favicon-jtrdedht.png
+        url: https://discuss-cn.pipecraft.net/
         description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
         tags: RSS,Atom,聚合新闻,内容订阅
 
@@ -96,8 +96,8 @@ categories:
         description: 聚合程序员博客的宝盒，是一个非商业性质的，独立的，开放的，程序员社区。
         tags: 程序员,博客,社区
       - title: Pipecraft 社区
-        logo: https://discuss.cn.pipecraft.net/assets/favicon-jtrdedht.png
-        url: https://discuss.cn.pipecraft.net/
+        logo: https://discuss-cn.pipecraft.net/assets/favicon-jtrdedht.png
+        url: https://discuss-cn.pipecraft.net/
         description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
         tags: RSS,Atom,聚合新闻,内容订阅
       - title: 等你来加➕
