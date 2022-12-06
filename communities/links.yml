@@ -51,11 +51,10 @@ categories:
   - category: 新添加
     icon: linecons-star
     links:
-      - title: 十年之约
-        logo: https://xyears.cn/view/img/favicon.ico
-        url: https://xyears.cn/
-        description: 中文独立博客交流论坛
-        tags: 博客,独立博客
+      - title: DTO 社区
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">D</text></svg>
+        url: https://dto.pipecraft.net/
+        description: DTO 是一个只讨论技术话题的程序员社区。它是一个类似 Hacker News, Lobsters 的链接分享社区，在这里只可以分享与程序开发相关的链接与内容。
       - title: Best Yii
         logo: https://www.bestyii.com/images/favicon.png
         url: https://www.bestyii.com/
@@ -85,6 +84,10 @@ categories:
     hide_menu: true
     icon: linecons-star
     links:
+      - title: DTO 社区
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">D</text></svg>
+        url: https://dto.pipecraft.net/
+        description: DTO 是一个只讨论技术话题的程序员社区。它是一个类似 Hacker News, Lobsters 的链接分享社区，在这里只可以分享与程序开发相关的链接与内容。
       - title: 抛砖问答
         logo: https://pzwd.net/assets/avatars/hVgLBGkh1gxRpWiR.png
         url: https://pzwd.net/
@@ -100,15 +103,14 @@ categories:
         url: https://discuss-cn.pipecraft.net/
         description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
         tags: RSS,Atom,聚合新闻,内容订阅
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">P</text></svg>
-        url: https://github.com/pipecraft-net/nav/issues
-        description: 快来提交你的网站吧
-        tags: 程序员,生活,创意
 
   - category: 程序开发
     icon: linecons-doc
     links:
+      - title: DTO 社区
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">D</text></svg>
+        url: https://dto.pipecraft.net/
+        description: DTO 是一个只讨论技术话题的程序员社区。它是一个类似 Hacker News, Lobsters 的链接分享社区，在这里只可以分享与程序开发相关的链接与内容。
       - title: P站问答
         logo: https://pzwd.net/assets/avatars/hVgLBGkh1gxRpWiR.png
         url: https://pzwd.net/
@@ -258,11 +260,6 @@ categories:
         url: https://www.hifini.com/
         description: HiFiNi 是一个由音乐爱好者维护的分享平台, 旨在解决问题互帮互助, 如果您有需求, 请注册账号并发布信息、详细描述歌曲信息等, 我们会尽力帮您寻找
         tags: 音乐
-      - title: 十年之约
-        logo: https://xyears.cn/view/img/favicon.ico
-        url: https://xyears.cn/
-        description: 中文独立博客交流论坛
-        tags: 博客,独立博客
 
   - category: 轻社区系统程序
     icon: linecons-doc
