@@ -46,7 +46,7 @@ navigation_urls:
 ## 网址导航数据
 ################
 categories:
-  - category: 新添加
+  - category: 开发环境
     icon: linecons-star
     links:
       - title: DTO 社区
@@ -102,7 +102,7 @@ categories:
         description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
         tags: RSS,Atom,聚合新闻,内容订阅
 
-  - category: 程序开发
+  - category: 测试环境
     icon: linecons-doc
     links:
       - title: DTO 社区
